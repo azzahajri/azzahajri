@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Web development and DevOps**
 
-- 💬 Ask me about **ReactJs, NodeJs, Docker, Nginx, Linux**
+- 💬 Ask me about **JS,ReactJs, NodeJs, Docker, Nginx, Linux, Ddocker-compose, kubernetes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
