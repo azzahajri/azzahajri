@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="[https://github.com/jaiswaladi246](https://github.com/azzahajri)">
-    <img src="https://img.shields.io/github/followers/jaiswaladi246?label=Follow&style=social" />
+    <img src="https://img.shields.io/github/followers/azzahajri?label=Follow&style=social" />
   </a>
   <a href="https://www.linkedin.com/in/azza-hajri-22853819a/">
     <img src="https://img.shields.io/badge/LinkedIn-azzahajri-blue?logo=linkedin&style=flat-square" />
@@ -43,9 +43,6 @@
 
 ---
 
-
-
----
 
 ### 👨‍💼 About Me & 🤝 Open to Collaborations
 
