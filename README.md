@@ -26,3 +26,24 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azzahajri&show_icons=true&locale=en" alt="azzahajri" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azzahajri&" alt="azzahajri" /></p>
+
+---
+### 🔥 GitHub Contribution Streak
+
+![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?logo=github&style=for-the-badge)
+
+---
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=azzahajri&limit=5&theme=flat&combine_all_yearly_contributions=true)
+
+---
+
+### 👨‍💼 About Me & 🤝 Open to Collaborations
+
+🎤 Available for **Guest Sessions / Webinars**  
+🤝 Open to **Project Collaborations **  
+💼 Offering **DevOps**  
+📧 Let’s chat: [azzahajri@outlook.com](mailto:azzahajri@outlook.com)
+
+> *"Helping people crack DevOps with real-world knowledge. Let’s build and automate the future, one pipeline at a time!"*
