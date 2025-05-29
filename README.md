@@ -43,7 +43,15 @@
 
 ---
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=azzahajri&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
+---
+
+### 🔝 My GitHub Contributions
+![Snacke animation](https://github.com/azzahajri/blob/output/github-contribution-grid-snacke.sng)
+
+---
 ### 👨‍💼 About Me & 🤝 Open to Collaborations
 
 🎤 Available for **Guest Sessions / Webinars**  
