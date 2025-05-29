@@ -30,7 +30,9 @@
 ---
 ### 🔥 GitHub Contribution Streak
 
-![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?logo=github&style=for-the-badge)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azzahajri&theme=default" alt="azzahajri-streak-stats"/>
+</p>
 
 ---
 
