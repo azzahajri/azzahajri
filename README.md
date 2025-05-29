@@ -30,6 +30,11 @@
 ---
 ### 🔥 GitHub Contribution Streak
 
+![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?logo=github&style=for-the-badge)
+
+---
+
+### 🔝 Top Contributed Repo
 <p align="center">
   <a href="https://github.com/azzahajri/DevOps-Azure-Project">
     <img src="https://img.shields.io/badge/DevOps-Azure_Project-blueviolet?style=for-the-badge&logo=azuredevops" />
@@ -41,11 +46,6 @@
     <img src="https://img.shields.io/badge/Jenkins-Automation_Pipeline-blueviolet?style=for-the-badge&logo=jenkins" />
   </a>
 </p>
-
----
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=azzahajri&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 ---
 
