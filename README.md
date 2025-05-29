@@ -31,7 +31,15 @@
 ### 🔥 GitHub Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azzahajri&theme=default" alt="azzahajri-streak-stats"/>
+  <a href="https://github.com/azzahajri/DevOps-Azure-Project">
+    <img src="https://img.shields.io/badge/DevOps-Azure_Project-blueviolet?style=for-the-badge&logo=azuredevops" />
+  </a>
+  <a href="https://github.com/azzahajri/Terraform-Azure-Infrastructure">
+    <img src="https://img.shields.io/badge/Terraform-AzureInfra-blueviolet?style=for-the-badge&logo=terraform" />
+  </a>
+  <a href="https://github.com/azzahajri/Jenkins-Automation-Pipeline">
+    <img src="https://img.shields.io/badge/Jenkins-Automation_Pipeline-blueviolet?style=for-the-badge&logo=jenkins" />
+  </a>
 </p>
 
 ---
