@@ -41,10 +41,6 @@
 
 ![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?logo=github&style=for-the-badge)
 
----
-
-### 🔝 My GitHub Contributions
-![Snacke animation](https://github.com/azzahajri/blob/output/github-contribution-grid-snacke.sng)
 
 ---
 ### 👨‍💼 About Me & 🤝 Open to Collaborations
